@@ -1,0 +1,16 @@
+.bccol, .licol {
+    background-color: #E3E2DD;
+}
+
+.deleteForm, .getUpdateIdForm {
+    display: inline-block; 
+}
+
+.h1txtcol {
+    color: #FFFEF7;
+    font-size: 4rem;
+}
+
+.jamcol {
+    background: #F5DB89 !important
+}
